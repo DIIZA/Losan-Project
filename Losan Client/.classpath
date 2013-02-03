@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Dermenslof/Desktop/mcp losan 1.4.5 multi terrain.png/jars/bin/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Dermenslof/git/Losan-Project final/Losan Client/lib/bin/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dermenslof/git/Losan-Project final/Losan Client/lib/bin/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dermenslof/git/Losan-Project final/Losan Client/lib/bin/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dermenslof/git/Losan-Project final/Losan Client/lib/bin/minecraft.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
